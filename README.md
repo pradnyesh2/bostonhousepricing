@@ -27,3 +27,16 @@ git config --global user.name
 ```
 git config --global user.email "your email address"
 ```
+```
+git add .
+```
+```
+git status
+```
+```
+git commit -m "message"
+```
+```
+git push <remote> <branch>
+git push origin main
+```
